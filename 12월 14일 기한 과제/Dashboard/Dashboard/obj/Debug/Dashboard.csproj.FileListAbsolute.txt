@@ -1,0 +1,10 @@
+D:\Many Things\Saratoga93\Code\12.12Homework\Dashboard\Dashboard\bin\Debug\Dashboard.exe.config
+D:\Many Things\Saratoga93\Code\12.12Homework\Dashboard\Dashboard\bin\Debug\Dashboard.exe
+D:\Many Things\Saratoga93\Code\12.12Homework\Dashboard\Dashboard\bin\Debug\Dashboard.pdb
+D:\Many Things\Saratoga93\Code\12.12Homework\Dashboard\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+D:\Many Things\Saratoga93\Code\12.12Homework\Dashboard\Dashboard\obj\Debug\Dashboard.Form1.resources
+D:\Many Things\Saratoga93\Code\12.12Homework\Dashboard\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+D:\Many Things\Saratoga93\Code\12.12Homework\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+D:\Many Things\Saratoga93\Code\12.12Homework\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+D:\Many Things\Saratoga93\Code\12.12Homework\Dashboard\Dashboard\obj\Debug\Dashboard.exe
+D:\Many Things\Saratoga93\Code\12.12Homework\Dashboard\Dashboard\obj\Debug\Dashboard.pdb

@@ -1,0 +1,10 @@
+D:\Many Things\Saratoga93\Code\12.12Homework\csLoginForm\csLoginForm\bin\Debug\csLoginForm.exe.config
+D:\Many Things\Saratoga93\Code\12.12Homework\csLoginForm\csLoginForm\bin\Debug\csLoginForm.exe
+D:\Many Things\Saratoga93\Code\12.12Homework\csLoginForm\csLoginForm\bin\Debug\csLoginForm.pdb
+D:\Many Things\Saratoga93\Code\12.12Homework\csLoginForm\csLoginForm\obj\Debug\csLoginForm.csprojAssemblyReference.cache
+D:\Many Things\Saratoga93\Code\12.12Homework\csLoginForm\csLoginForm\obj\Debug\csLoginForm.Form1.resources
+D:\Many Things\Saratoga93\Code\12.12Homework\csLoginForm\csLoginForm\obj\Debug\csLoginForm.Properties.Resources.resources
+D:\Many Things\Saratoga93\Code\12.12Homework\csLoginForm\csLoginForm\obj\Debug\csLoginForm.csproj.GenerateResource.cache
+D:\Many Things\Saratoga93\Code\12.12Homework\csLoginForm\csLoginForm\obj\Debug\csLoginForm.csproj.CoreCompileInputs.cache
+D:\Many Things\Saratoga93\Code\12.12Homework\csLoginForm\csLoginForm\obj\Debug\csLoginForm.exe
+D:\Many Things\Saratoga93\Code\12.12Homework\csLoginForm\csLoginForm\obj\Debug\csLoginForm.pdb

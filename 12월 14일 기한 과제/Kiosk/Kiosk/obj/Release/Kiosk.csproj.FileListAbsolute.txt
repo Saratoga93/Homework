@@ -1,0 +1,12 @@
+D:\Many Things\Saratoga93\Code\12.12Homework\Kiosk\Kiosk\bin\Release\Kiosk.exe.config
+D:\Many Things\Saratoga93\Code\12.12Homework\Kiosk\Kiosk\bin\Release\Kiosk.exe
+D:\Many Things\Saratoga93\Code\12.12Homework\Kiosk\Kiosk\bin\Release\Kiosk.pdb
+D:\Many Things\Saratoga93\Code\12.12Homework\Kiosk\Kiosk\obj\Release\Kiosk.FishchipsControl.resources
+D:\Many Things\Saratoga93\Code\12.12Homework\Kiosk\Kiosk\obj\Release\Kiosk.Form1.resources
+D:\Many Things\Saratoga93\Code\12.12Homework\Kiosk\Kiosk\obj\Release\Kiosk.Home.resources
+D:\Many Things\Saratoga93\Code\12.12Homework\Kiosk\Kiosk\obj\Release\Kiosk.Properties.Resources.resources
+D:\Many Things\Saratoga93\Code\12.12Homework\Kiosk\Kiosk\obj\Release\Kiosk.Second.resources
+D:\Many Things\Saratoga93\Code\12.12Homework\Kiosk\Kiosk\obj\Release\Kiosk.csproj.GenerateResource.cache
+D:\Many Things\Saratoga93\Code\12.12Homework\Kiosk\Kiosk\obj\Release\Kiosk.csproj.CoreCompileInputs.cache
+D:\Many Things\Saratoga93\Code\12.12Homework\Kiosk\Kiosk\obj\Release\Kiosk.exe
+D:\Many Things\Saratoga93\Code\12.12Homework\Kiosk\Kiosk\obj\Release\Kiosk.pdb
